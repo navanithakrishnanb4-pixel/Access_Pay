@@ -1,0 +1,41 @@
+case_id,label,payee_name,payee_upi,saved_contact_upi,amount,typical_amount,channel,message,qr_merchant_name
+S21,SAFE,Kumar Provision,kumarprov@ybl,,640,,QR,,Kumar Provision
+S22,SAFE,Dr Anitha Clinic,dranitha.clinic@okaxis,dranitha.clinic@okaxis,800,700,UPI_ID,Consultation fee,
+S23,SAFE,Swiggy Instamart,swiggy.pay@icici,,430,,LINK,Order 4821 payment,Swiggy Instamart
+S24,SAFE,Hari Caterers,hari.caterers@okhdfcbank,,15000,,UPI_ID,Advance for pongal function booking,
+S25,SAFE,Nisha K,nisha.k@oksbi,nisha.k@oksbi,2200,2000,UPI_ID,Refund for the extra ticket,
+S26,SAFE,Chennai Metro,cmrl.pay@sbi,,50,,QR,,Chennai Metro
+S27,SAFE,Murugan Vegetables,murugan.veg@paytm,,210,,QR,,Murugan Vegetables
+S28,SAFE,Amma,amma.home@oksbi,amma.home@oksbi,3000,3000,UPI_ID,,
+S29,SAFE,Raj Electronics,rajelec@ybl,,24500,,QR,,Raj Electronics
+S30,SAFE,Water Can Supplier,watercan.supply@ybl,watercan.supply@ybl,60,60,UPI_ID,Monthly can,
+S31,SAFE,IRCTC,irctc.pay@sbi,,1450,,LINK,Ticket booking PNR 4521,IRCTC
+S32,SAFE,Selvam Painter,selvam.painter@paytm,,8000,,UPI_ID,Paint work advance,
+S33,SAFE,Hostel Mess,hostelmess@hdfcbank,hostelmess@hdfcbank,3500,3500,LINK,Mess fee due today,
+S34,SAFE,Sana M,sana.m@okaxis,sana.m@okaxis,450,500,UPI_ID,Movie tickets,
+S35,SAFE,Local Tailor,tailor.rams@ybl,,1800,,QR,,Local Tailor
+S36,SAFE,Zomato,zomato.pay@icici,,560,,LINK,Order payment,Zomato
+S37,SAFE,Pooja Jewellers,poojajewel@ybl,,48000,,QR,,Pooja Jewellers
+S38,SAFE,Gokul R,gokul.r@oksbi,gokul.r@oksbi,700,600,UPI_ID,Pending balance,
+S39,SAFE,Bus Pass Office,buspass.tn@sbi,,250,,LINK,Monthly pass renewal - last chance this month,Bus Pass Office
+S40,SAFE,Ramesh Taxi,ramesh.taxi@paytm,,900,,QR,,Ramesh Taxi
+R21,RISKY,Anil Friend,anil.friend2@ybl,,6000,,UPI_ID,Bro this is my new number. Hospital emergency please send money asap,
+R22,RISKY,SBI Support,sbi.support99@ybl,,1,,LINK,Dear customer your acount will be bloked. Verify pannunga immediately,
+R23,RISKY,Gpay Rewards,gpay.rewards@ybl,,1,,LINK,Scratch card won! Pay Rs1 to claim your reward,
+R24,RISKY,Ravi Kumar,ravikumar@okaxis,ravi.kumar@okaxis,4000,500,UPI_ID,Hi pay me pls,
+R25,RISKY,Mahesh Plumber,mahesh.plumber@ybl,,9000,,QR,,Star Hardware
+R26,RISKY,Online Course Admission,coursesadm@ybl,,30000,,UPI_ID,Seat confirmed. Pay full fees today to hold your seat,
+R27,RISKY,Delivery Boy,delivery.boy77@paytm,,2,,UPI_ID,Pay Rs 2 for address confirmation,
+R28,RISKY,Rental Owner,owner.flatrent@ybl,,5000,,UPI_ID,Token amount to block flat. I am in Dubai and keys will come by courier,
+R29,RISKY,Investment Guru,wealthguru@ybl,,50000,,UPI_ID,Join my trading group. Daily profit assured,
+R30,RISKY,Customer Care,helpdesk.refund@ybl,,1,,COLLECT_REQUEST,Approve to get money back,
+R31,RISKY,Telecom Dept,telecom.dept@ybl,,500,,LINK,Your SIM will be deactivated. Pay reconnection charge,
+R32,RISKY,Cousin Kiran,kiran.cousin@ybl,kiran.cousin@oksbi,2500,1000,UPI_ID,Send to this new UPI id. Old one not working,
+R33,RISKY,Petrol Pump,petrolpump.hp@ybl,,3000,,QR,,HP Fuel Station
+R34,RISKY,Police Cyber Cell,cybercell.help@ybl,,20000,,UPI_ID,You are under investigation. Pay to close the case,
+R35,RISKY,Amazon Gift,amzn.gifts@ybl,,1999,,LINK,Claim free iPhone by paying delivery,
+R36,RISKY,Part Time Job,parttime.jobs@ybl,,1000,,UPI_ID,Like videos and earn daily. Pay deposit to start tasks,
+R37,RISKY,Principal Office,principal.office@ybl,,10000,,UPI_ID,Sir asked to buy gift cards. Urgent,
+R38,RISKY,Lottery Winner Desk,lotterydesk@ybl,,3999,,UPI_ID,You are the lucky winner. Pay claim tax,
+R39,RISKY,Water Board Pay,waterboard.pay@ybl,,1800,,LINK,Overdue. Pay at once or connection will be cut,
+R40,RISKY,Traveller Help,traveller.help@ybl,,7000,,UPI_ID,Wallet stolen. Please help me return home. Will pay back,

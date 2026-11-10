@@ -1,0 +1,41 @@
+case_id,label,payee_name,payee_upi,saved_contact_upi,amount,typical_amount,channel,message,qr_merchant_name
+S01,SAFE,Ravi Kumar,ravi.kumar@okaxis,ravi.kumar@okaxis,500,500,UPI_ID,Share of lunch bill,
+S02,SAFE,Lakshmi Stores,lakshmistores@ybl,lakshmistores@ybl,1250,1100,QR,,Lakshmi Stores
+S03,SAFE,TNEB Electricity Board,tneb.bill@sbi,tneb.bill@sbi,2340,2200,LINK,Bill due tomorrow. Pay to avoid late fee,TNEB Electricity Board
+S04,SAFE,Mr Suresh Landlord,suresh.rent@okicici,suresh.rent@okicici,25000,25000,UPI_ID,October rent,
+S05,SAFE,Anbu Tea Stall,anbutea@paytm,,40,,QR,,Anbu Tea Stall
+S06,SAFE,Priya Sharma,priya.sharma@oksbi,priya.sharma@oksbi,3000,2500,UPI_ID,Birthday gift contribution,
+S07,SAFE,Green Valley School,gvschool@hdfcbank,gvschool@hdfcbank,18000,18000,LINK,Term fee - last date is Friday,Green Valley School
+S08,SAFE,Metro Pharmacy,metropharm@ybl,metropharm@ybl,780,650,QR,,Metro Pharmacy
+S09,SAFE,Karthik R,karthik.r@okaxis,karthik.r@okaxis,1500,1200,UPI_ID,Cab share,
+S10,SAFE,Sri Balaji Hotel,sribalaji@icici,,620,,QR,,Sri Balaji Hotel
+S11,SAFE,Airtel Prepaid,airtel.recharge@airtel,airtel.recharge@airtel,299,299,LINK,Recharge expires today,Airtel Prepaid
+S12,SAFE,Divya M,divya.m@okhdfcbank,divya.m@okhdfcbank,2000,2000,UPI_ID,Tuition fee,
+S13,SAFE,Fresh Mart,freshmart@ybl,,1840,,QR,,Fresh Mart
+S14,SAFE,Gas Agency Coimbatore,gasagency.cbe@sbi,gasagency.cbe@sbi,1100,1050,LINK,Cylinder booking payment,Gas Agency Coimbatore
+S15,SAFE,Mohan Auto,mohan.auto@paytm,,150,,QR,,Mohan Auto
+S16,SAFE,Aunt Meena,meena.aunt@oksbi,meena.aunt@oksbi,5000,3000,UPI_ID,Festival gift,
+S17,SAFE,Book World,bookworld@ybl,,950,,QR,,Book World
+S18,SAFE,Internet Broadband Co,netbroad@hdfcbank,netbroad@hdfcbank,799,799,LINK,Plan renews in 2 days,Internet Broadband Co
+S19,SAFE,Vikram S,vikram.s@okaxis,vikram.s@okaxis,12000,4000,UPI_ID,Share of trip booking,
+S20,SAFE,City Bakery,citybakery@ybl,,360,,QR,,City Bakery
+R01,RISKY,Bank Verify Desk,bankverify.desk@ybl,,10,,LINK,Your bank account will be blocked. Pay Rs 10 to verify immediately,
+R02,RISKY,KYC Update Team,kyc.update1@paytm,,1,,LINK,Update KYC within 24 hours or account suspended. Pay Rs 1 to confirm,
+R03,RISKY,Lucky Draw Office,luckydraw.office@ybl,,4999,,UPI_ID,Congratulations you won a prize. Pay processing fee to receive Rs 5 lakh,
+R04,RISKY,Refund Services,refund.services@okaxis,,9800,,COLLECT_REQUEST,Approve this request to receive your refund,
+R05,RISKY,Job Offer HR,hr.joboffer@ybl,,2500,,UPI_ID,Registration fee for confirmed job. Pay now,
+R06,RISKY,Customer Care Helpline,care.helpline@paytm,,15000,,UPI_ID,I am calling from bank customer care. Transfer to secure your account,
+R07,RISKY,Quick Rewards,quickrewards@ybl,,1,,LINK,Send Rs 1 to receive Rs 5000 cashback,
+R08,RISKY,Electricity Dept Officer,eb.officer@ybl,,3200,,UPI_ID,Power will be disconnected tonight. Pay immediately to this officer,
+R09,RISKY,Ravi Kumar,ravi.kumar@okaxis.in,ravi.kumar@okaxis,5000,500,UPI_ID,Need urgent help,
+R10,RISKY,Online Shop Deals,shopdeals@ybl,,7499,,QR,Limited offer pay now,Fashion Hub Outlet
+R11,RISKY,Insurance Claims,claim.insure@okicici,,12000,,UPI_ID,Pay tax to release your claim amount,
+R12,RISKY,Crypto Growth Fund,cryptogrowth@ybl,,20000,,UPI_ID,Guaranteed double returns in 7 days,
+R13,RISKY,Parcel Delivery,parcel.delivery@paytm,,85,,LINK,Your parcel is held. Pay customs fee now,
+R14,RISKY,Sunil Brother,sunil.bro@okaxis,sunil.brother@okaxis,8000,1000,UPI_ID,,
+R15,RISKY,Army Canteen Sale,army.canteen@ybl,,6000,,QR,Officer posted, pay advance and I will ship the item,Army Store
+R16,RISKY,Loan Approval Cell,loan.cell@ybl,,3500,,UPI_ID,Loan approved. Pay insurance fee first,
+R17,RISKY,Gift Parcel Abroad,giftparcel@paytm,,28000,,UPI_ID,Friend sent gift from abroad. Clear customs charges,
+R18,RISKY,Tech Support Center,techsupport.help@ybl,,4500,,LINK,Your device has a virus. Pay for fix urgently,
+R19,RISKY,Rental Advance Owner,rentowner.adv@ybl,,15000,,UPI_ID,Pay advance to hold the flat before others take it,
+R20,RISKY,Wedding Photographer,wed.photo@ybl,,22000,,QR,,Wedding Studios Pro

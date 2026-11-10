@@ -1,0 +1,7 @@
+case_id,expected_behaviour,payee_name,payee_upi,saved_contact_upi,amount,typical_amount,channel,message,qr_merchant_name
+B01,UNCERTAIN,,unknown@ybl,,500,,QR,,
+B02,UNCERTAIN,Lakshmi Stores,lakshmistores@ybl,lakshmistores@ybl,,1100,QR,,Lakshmi Stores
+B03,NO_CRASH_LONG_NAME,Sri Venkateswara Agencies And General Merchants Private Limited Coimbatore Branch Office,svagm@ybl,,1200,,QR,,
+B04,NO_CRASH_TAMIL_NAME,அன்பு தேநீர் கடை,anbutea@paytm,,40,,QR,,அன்பு தேநீர் கடை
+B05,UNCERTAIN,Ravi Kumar,ravi.kumar@okaxis,ravi.kumar@okaxis,-500,500,UPI_ID,,
+B06,NO_CRASH_LARGE_AMOUNT,Property Registrar Office,registrar@sbi,,10000000,,LINK,Stamp duty payment,Property Registrar Office

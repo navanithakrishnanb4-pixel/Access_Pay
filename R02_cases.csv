@@ -1,0 +1,41 @@
+case_id,label,risk,flagged,amount_only_flag,consistent,fail_detail,reasons,median_ms
+S21,SAFE,LOW,False,False,True,,No unusual signs found,0.0106
+S22,SAFE,LOW,False,False,True,,No unusual signs found,0.0098
+S23,SAFE,LOW,False,False,True,,Recipient is new to you,0.0108
+S24,SAFE,HIGH,True,True,True,,"Recipient is new to you | Large amount to a new recipient | Message asks for a fee, advance or verification payment",0.0137
+S25,SAFE,MEDIUM,True,False,True,,"Message asks for a fee, advance or verification payment",0.0121
+S26,SAFE,LOW,False,False,True,,No unusual signs found,0.0103
+S27,SAFE,LOW,False,False,True,,No unusual signs found,0.01
+S28,SAFE,LOW,False,False,True,,No unusual signs found,0.012
+S29,SAFE,LOW,False,True,True,,Large amount to a new recipient,0.0129
+S30,SAFE,LOW,False,False,True,,No unusual signs found,0.01
+S31,SAFE,LOW,False,False,True,,Recipient is new to you,0.0135
+S32,SAFE,MEDIUM,True,True,True,,"Recipient is new to you | Message asks for a fee, advance or verification payment",0.013
+S33,SAFE,LOW,False,False,True,,No unusual signs found,0.0123
+S34,SAFE,LOW,False,False,True,,No unusual signs found,0.0096
+S35,SAFE,LOW,False,False,True,,No unusual signs found,0.0126
+S36,SAFE,LOW,False,False,True,,Recipient is new to you,0.0102
+S37,SAFE,LOW,False,True,True,,Large amount to a new recipient,0.013
+S38,SAFE,LOW,False,False,True,,No unusual signs found,0.0098
+S39,SAFE,MEDIUM,True,False,True,,Recipient is new to you | Message uses urgency or threat,0.0108
+S40,SAFE,LOW,False,False,True,,No unusual signs found,0.0101
+R21,RISKY,LOW,False,True,True,,Recipient is new to you,0.0141
+R22,RISKY,MEDIUM,True,False,True,,Recipient is new to you | Message uses urgency or threat,0.0105
+R23,RISKY,LOW,False,False,True,,Recipient is new to you,0.0108
+R24,RISKY,MEDIUM,True,False,True,,Payment ID differs from the saved contact | Amount is much higher than usual,0.0123
+R25,RISKY,MEDIUM,True,True,True,,QR shop name does not match the payee name,0.0128
+R26,RISKY,MEDIUM,True,True,True,,Recipient is new to you | Large amount to a new recipient,0.014
+R27,RISKY,LOW,False,False,True,,Recipient is new to you,0.011
+R28,RISKY,LOW,False,True,True,,Recipient is new to you,0.014
+R29,RISKY,MEDIUM,True,True,True,,Recipient is new to you | Large amount to a new recipient,0.0139
+R30,RISKY,MEDIUM,True,False,True,,Recipient is new to you | This is a request that takes money from you,0.011
+R31,RISKY,LOW,False,False,True,,Recipient is new to you,0.0109
+R32,RISKY,MEDIUM,True,False,True,,Payment ID differs from the saved contact,0.0125
+R33,RISKY,MEDIUM,True,False,True,,QR shop name does not match the payee name,0.0127
+R34,RISKY,MEDIUM,True,True,True,,Recipient is new to you | Large amount to a new recipient,0.0139
+R35,RISKY,LOW,False,False,True,,Recipient is new to you,0.0133
+R36,RISKY,LOW,False,False,True,,Recipient is new to you,0.0139
+R37,RISKY,HIGH,True,True,True,,Recipient is new to you | Large amount to a new recipient | Message uses urgency or threat,0.0128
+R38,RISKY,LOW,False,False,True,,Recipient is new to you,0.0135
+R39,RISKY,LOW,False,False,True,,Recipient is new to you,0.0135
+R40,RISKY,LOW,False,True,True,,Recipient is new to you,0.0137

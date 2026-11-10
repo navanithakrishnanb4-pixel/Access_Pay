@@ -1,0 +1,41 @@
+case_id,label,payee_name,payee_upi,saved_contact_upi,amount,typical_amount,channel,message,qr_merchant_name
+S41,SAFE,Annapoorna Sweets,annapoorna@ybl,,320,,QR,,Annapoorna Sweets
+S42,SAFE,Ganesh Auto Works,ganesh.auto@paytm,,2800,,UPI_ID,Bike service bill,
+S43,SAFE,Ms Kavitha,kavitha.m@oksbi,kavitha.m@oksbi,1500,1500,UPI_ID,Tuition for November,
+S44,SAFE,Apollo Pharmacy,apollo.pharm@icici,,1240,,LINK,Order 7781 payment,Apollo Pharmacy
+S45,SAFE,Mr Joseph,joseph.nbr@okaxis,joseph.nbr@okaxis,600,500,UPI_ID,Cable TV share,
+S46,SAFE,Corporation Water Tax,corpn.tax@sbi,,940,,LINK,Property tax payment 2026,Corporation Water Tax
+S47,SAFE,Balu Tiffin Centre,balutiffin@paytm,,85,,QR,,Balu Tiffin Centre
+S48,SAFE,Meera D,meera.d@oksbi,meera.d@oksbi,4000,3000,UPI_ID,Split dinner,
+S49,SAFE,Jio Fiber,jiofiber.pay@icici,,1178,,LINK,Renewal for December,Jio Fiber
+S50,SAFE,Veeran Mechanic,veeran.mech@paytm,,3600,,UPI_ID,Please pay for the spare parts here,
+S51,SAFE,Karthika Beauty Parlour,karthika.bp@ybl,,1500,,QR,,Karthika Beauty Parlour
+S52,SAFE,Uncle Ramanathan,ramanathan.u@oksbi,ramanathan.u@oksbi,10000,10000,UPI_ID,Loan repayment,
+S53,SAFE,Sri Lakshmi Textiles,srilakshmitex@ybl,,9800,,QR,,Sri Lakshmi Textiles
+S54,SAFE,Library Fine Counter,libfine@sbi,,120,,LINK,Fine for late return,Library Fine Counter
+S55,SAFE,Hema S,hema.s@okaxis,hema.s@okaxis,800,700,UPI_ID,Snacks order,
+S56,SAFE,Bharat Gas,bharatgas.pay@sbi,bharatgas.pay@sbi,1090,1050,LINK,Refill amount due,Bharat Gas
+S57,SAFE,Tarun Courier,tarun.courier@paytm,,150,,UPI_ID,Courier charges,
+S58,SAFE,Nandini Hospital Billing,nandini.bill@hdfcbank,,14200,,LINK,Final bill settlement,Nandini Hospital Billing
+S59,SAFE,Pradeep M,pradeep.m@oksbi,pradeep.m@oksbi,2500,2000,UPI_ID,Cricket kit share,
+S60,SAFE,Sri Murugan Flowers,murugan.flowers@ybl,,70,,QR,,Sri Murugan Flowers
+R41,RISKY,Bank Alert Desk,bankalert.desk@ybl,,1,,LINK,Your debit card is locked. Click and pay one rupee to unlock,
+R42,RISKY,Mobile Recharge Offer,recharge.offer@ybl,,99,,LINK,Recharge bonus for you. Pay Rs 99 now to get double,
+R43,RISKY,Lalitha Aunty,lalitha.aunty@oksbi.co,lalitha.aunty@oksbi,7000,1000,UPI_ID,Urgent need,
+R44,RISKY,Income Tax Refund Dept,itrefund.dept@ybl,,5600,,LINK,Claim your pending tax refund now,
+R45,RISKY,Matrimony Premium Desk,matri.premium@ybl,,12000,,UPI_ID,Upgrade to contact the profile you liked,
+R46,RISKY,Dhanush Land Agent,dhanush.land@ybl,,40000,,UPI_ID,Site visit confirmed. Reservation amount,
+R47,RISKY,Courier Hub,courier.hub@ybl,,49,,LINK,Failed delivery. Reschedule by paying Rs 49,
+R48,RISKY,Sharma Uncle,sharma.uncle@okicici,sharma.uncle@oksbi,3000,3000,UPI_ID,New account please use this,
+R49,RISKY,Free Netflix Club,freenetflix@ybl,,1,,LINK,Activate free subscription with Rs 1,
+R50,RISKY,Ex Colleague Arun,arun.ex@ybl,,15000,,UPI_ID,Bro urgent medical need. Will return tomorrow,
+R51,RISKY,Visa Consultancy,visa.consult@ybl,,18000,,UPI_ID,Processing fee for your work visa file,
+R52,RISKY,Gas Subsidy Cell,gas.subsidy@ybl,,15,,LINK,Subsidy credit pending. Authenticate with Rs 15,
+R53,RISKY,Quick Pay Services,quickpay.srv@ybl,,2500,,QR,,Annapurna Mess
+R54,RISKY,Task Manager Telegram,taskmgr.tg@ybl,,3000,,UPI_ID,Complete task 2. Deposit to unlock withdrawal,
+R55,RISKY,Relative Abroad,rel.abroad@ybl,,25000,,UPI_ID,I am stuck at the airport. Please transfer. Will send back,
+R56,RISKY,Scholarship Cell,scholar.cell@ybl,,450,,LINK,Scholarship released. Verify account to receive,
+R57,RISKY,Friend Collect,friendcollect@ybl,,2000,,COLLECT_REQUEST,,
+R58,RISKY,Home Loan Prepay Desk,loanprepay.desk@ybl,,9000,,UPI_ID,Prepayment helps lower EMI,
+R59,RISKY,OTP Helper,otp.helper@ybl,,1,,UPI_ID,Verify your number,
+R60,RISKY,Free Health Camp,healthcamp.free@ybl,,3000,,UPI_ID,Free health camp. Book slot with Rs 3000,

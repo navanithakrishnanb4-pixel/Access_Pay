@@ -1,0 +1,29 @@
+{
+ "run_id": "R04",
+ "truth_layer_version": "1.1",
+ "python": "3.12.3",
+ "date_utc": "2026-11-10 08:45",
+ "cases_file": "data/cases_setA.csv",
+ "module": "truth_layer",
+ "cases_sha256_16": "212d1e0adc4795cd",
+ "code_sha256_16": "45c93976da3de6ce",
+ "n_cases": 40,
+ "T1_consistent": 40,
+ "T1_total": 40,
+ "T2_rules": {
+  "risky_total": 20,
+  "risky_flagged": 20,
+  "safe_total": 20,
+  "safe_flagged": 0
+ },
+ "T2_amount_only_baseline": {
+  "risky_total": 20,
+  "risky_flagged": 11,
+  "safe_total": 20,
+  "safe_flagged": 4
+ },
+ "T2_uncertain_count": 0,
+ "T3_median_ms": 0.0125,
+ "T3_p95_ms": 0.0154,
+ "T3_max_ms": 0.017
+}

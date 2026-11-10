@@ -1,0 +1,41 @@
+case_id,label,risk,flagged,amount_only_flag,consistent,fail_detail,reasons,median_ms
+S01,SAFE,LOW,False,False,True,,No unusual signs found,0.0077
+S02,SAFE,LOW,False,False,True,,No unusual signs found,0.0088
+S03,SAFE,LOW,False,False,True,,No unusual signs found,0.0091
+S04,SAFE,LOW,False,True,True,,No unusual signs found,0.009
+S05,SAFE,LOW,False,False,True,,No unusual signs found,0.0076
+S06,SAFE,LOW,False,False,True,,No unusual signs found,0.009
+S07,SAFE,LOW,False,True,True,,No unusual signs found,0.0091
+S08,SAFE,LOW,False,False,True,,No unusual signs found,0.0067
+S09,SAFE,LOW,False,False,True,,No unusual signs found,0.0087
+S10,SAFE,LOW,False,False,True,,No unusual signs found,0.0076
+S11,SAFE,LOW,False,False,True,,No unusual signs found,0.007
+S12,SAFE,LOW,False,False,True,,No unusual signs found,0.0087
+S13,SAFE,LOW,False,False,True,,No unusual signs found,0.0094
+S14,SAFE,LOW,False,False,True,,No unusual signs found,0.0089
+S15,SAFE,LOW,False,False,True,,No unusual signs found,0.0073
+S16,SAFE,LOW,False,True,True,,No unusual signs found,0.0088
+S17,SAFE,LOW,False,False,True,,No unusual signs found,0.0076
+S18,SAFE,LOW,False,False,True,,No unusual signs found,0.007
+S19,SAFE,LOW,False,True,True,,No unusual signs found,0.009
+S20,SAFE,LOW,False,False,True,,No unusual signs found,0.0076
+R01,RISKY,HIGH,True,False,True,,"Recipient is new to you | Message uses urgency or threat | Message asks for a fee, advance or verification payment | Message claims to be a bank or official",0.0064
+R02,RISKY,HIGH,True,False,True,,"Recipient is new to you | Message uses urgency or threat | Message asks for a fee, advance or verification payment",0.0074
+R03,RISKY,MEDIUM,True,False,True,,"Recipient is new to you | Message asks for a fee, advance or verification payment",0.0093
+R04,RISKY,HIGH,True,True,True,,"Recipient is new to you | Message asks for a fee, advance or verification payment | This is a request that takes money from you",0.0094
+R05,RISKY,HIGH,True,False,True,,"Recipient is new to you | Message uses urgency or threat | Message asks for a fee, advance or verification payment",0.0091
+R06,RISKY,HIGH,True,True,True,,Recipient is new to you | Large amount to a new recipient | Message claims to be a bank or official,0.0097
+R07,RISKY,MEDIUM,True,False,True,,"Recipient is new to you | Message asks for a fee, advance or verification payment",0.0073
+R08,RISKY,HIGH,True,False,True,,Recipient is new to you | Message uses urgency or threat | Message claims to be a bank or official,0.0095
+R09,RISKY,HIGH,True,True,True,,Payment ID differs from the saved contact | Amount is much higher than usual | Message uses urgency or threat,0.0085
+R10,RISKY,HIGH,True,True,True,,Message uses urgency or threat | QR shop name does not match the payee name,0.0098
+R11,RISKY,HIGH,True,True,True,,"Recipient is new to you | Large amount to a new recipient | Message asks for a fee, advance or verification payment",0.0097
+R12,RISKY,HIGH,True,True,True,,"Recipient is new to you | Large amount to a new recipient | Message asks for a fee, advance or verification payment",0.01
+R13,RISKY,MEDIUM,True,False,True,,"Recipient is new to you | Message asks for a fee, advance or verification payment",0.0077
+R14,RISKY,MEDIUM,True,True,True,,Payment ID differs from the saved contact | Amount is much higher than usual,0.0088
+R15,RISKY,HIGH,True,True,True,,QR shop name does not match the payee name | Message claims to be a bank or official,0.0098
+R16,RISKY,MEDIUM,True,False,True,,"Recipient is new to you | Message asks for a fee, advance or verification payment",0.0097
+R17,RISKY,HIGH,True,True,True,,"Recipient is new to you | Large amount to a new recipient | Message asks for a fee, advance or verification payment",0.0095
+R18,RISKY,MEDIUM,True,False,True,,Recipient is new to you | Message uses urgency or threat,0.0094
+R19,RISKY,HIGH,True,True,True,,"Recipient is new to you | Large amount to a new recipient | Message asks for a fee, advance or verification payment",0.0097
+R20,RISKY,MEDIUM,True,True,True,,Large amount to a new recipient | QR shop name does not match the payee name,0.0097

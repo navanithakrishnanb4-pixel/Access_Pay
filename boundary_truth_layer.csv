@@ -1,0 +1,7 @@
+case_id,expected,risk,consistent,met_expectation,detail,screen_reader
+B01,UNCERTAIN,UNCERTAIN,True,True,,"Uncertain. You are paying unverified recipient, 500 rupees. Payee or amount could not be verified. Check with the payee or your bank before paying."
+B02,UNCERTAIN,UNCERTAIN,True,True,,"Uncertain. You are paying Lakshmi Stores, amount not verified. Payee or amount could not be verified. Check with the payee or your bank before paying."
+B03,NO_CRASH_LONG_NAME,LOW,True,True,,"Low risk. You are paying 1,200 rupees to Sri Venkateswara Agencies And General Merchants Private Limited Coimbatore Branch Office. Reason: No unusual signs found."
+B04,NO_CRASH_TAMIL_NAME,LOW,True,True,,Low risk. You are paying 40 rupees to அன்பு தேநீர் கடை. Reason: No unusual signs found.
+B05,UNCERTAIN,UNCERTAIN,True,True,,"Uncertain. You are paying Ravi Kumar, -,500 rupees. Payee or amount could not be verified. Check with the payee or your bank before paying."
+B06,NO_CRASH_LARGE_AMOUNT,MEDIUM,True,True,,"Medium risk. You are paying 1,00,00,000 rupees to Property Registrar Office. Reason: Recipient is new to you."
