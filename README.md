@@ -41,7 +41,8 @@ Navanitha Krishnan B 711725UAM209 navanithakrishnan.b_25am@soi.kgkite.ac.in
 Nagendra Prasath A 711725URA140 nagendraprasath.a_25ra@soi.kgkite.ac.in
 Paul Samuel 711725URA145 paulsamuel.n_25ra@soi.kgkite.ac.in
 Madhu Mitha 711725URA134 madhumitha.s_25ra@soi.kgkite.ac.in
-Mentor: NANDHA KUMAR K N
+Rithik Roshan 711725UEC
+Mentor: Meera Antony
 
 ## AI-use disclosure
 An AI assistant drafted the PoC code, the synthetic cases and labels, and the deck text. The team must review, re-run and
